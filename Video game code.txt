@@ -2,4 +2,6 @@ Here is some code for the first level of the video game.
 
 Code for the character Luigi. He is mario's brother. He wears green and shoots green fireballs. 
 
+Make game faster. 
+
 
