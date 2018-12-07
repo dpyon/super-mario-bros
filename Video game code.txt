@@ -6,6 +6,6 @@ Code for the character Luigi. He is mario's brother. He wears green and shoots g
 
 Make game faster. 
 
-Bower code. 
+Bowser code. 
 
 
